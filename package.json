@@ -1,0 +1,26 @@
+{
+  "name": "dup-r",
+  "version": "1.0.0",
+  "description": "Copy directory recursively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekchuank/dup-r.git"
+  },
+  "keywords": [
+    "copy",
+    "directory"
+  ],
+  "author": "derekchuank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekchuank/dup-r/issues"
+  },
+  "homepage": "https://github.com/derekchuank/dup-r#readme",
+  "devDependencies": {
+    "remove-rf": "^1.0.1"
+  }
+}
